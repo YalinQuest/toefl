@@ -6,7 +6,7 @@
 
 ## ✅ 三大类连接词归类
 
-### 🟢 一、并列类（parallel / additive / similar）
+### 一、并列类（parallel / additive / similar）
 
 用于表达“补充信息”“相似内容”或“平行概念”。它们往往不改变话题方向，而是在原有观点基础上增加信息或类比说明。
 
@@ -22,7 +22,7 @@
 
 
 
-### 🔵 二、递进类（progressive / causal / temporal）
+### 二、递进类（progressive / causal / temporal）
 
 用于表达“加强语气”“推进内容”“解释因果”或“时间推进”，常见于因果句、总结句、强调句、目的句中。
 
@@ -37,7 +37,7 @@
 
 
 
-### 🔴 三、转折类（contrastive / concessive / shifting）
+### 三、转折类（contrastive / concessive / shifting）
 
 用于表达“观点对立”“逻辑反差”“让步限制”或“视角转变”，是最能体现句间逻辑变化的连接词集合。
 
@@ -57,9 +57,9 @@
 
 | 三大类    | 功能子类        | 常见连接词                                                                                                                                  |
 | ------ | ----------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| 🟢 并列类 | 补充/相似/解释/举例 | and, also, besides, moreover, in addition, for example, for instance, such as, including, likewise, similarly, that is, in other words |
-| 🔵 递进类 | 因果/强调/目的/顺序 | because, since, so, therefore, thus, hence, even, indeed, not only...but also, in order to, first, then, finally, as a result          |
-| 🔴 转折类 | 对比/让步/假设/转移 | but, however, although, even though, yet, nevertheless, on the other hand, in contrast, instead, despite, if, unless, turning to       |
+| 并列类 | 补充/相似/解释/举例 | and, also, besides, moreover, in addition, for example, for instance, such as, including, likewise, similarly, that is, in other words |
+| 递进类 | 因果/强调/目的/顺序 | because, since, so, therefore, thus, hence, even, indeed, not only...but also, in order to, first, then, finally, as a result          |
+| 转折类 | 对比/让步/假设/转移 | but, however, although, even though, yet, nevertheless, on the other hand, in contrast, instead, despite, if, unless, turning to       |
 
 
 
