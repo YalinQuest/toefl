@@ -179,4 +179,11 @@ Early cinema was limited by the peepshow format, which only allowed one viewer a
 例：Customers watched successive rounds of a boxing match.
 顾客观看拳击赛的一轮接一轮比赛录像。
 
+**phonograph** ［ˈfəʊnəɡrɑːf］ *n.* 留声机，录音播放设备
+
+**tube** ［tjuːb］ *n.* 管子，管状物；耳管
+
+**exhibitor** ［ɪɡˈzɪbɪtə］ *n.* 展出者；（影院）放映商
+
+
 
